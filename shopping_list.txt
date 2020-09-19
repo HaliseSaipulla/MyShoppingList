@@ -1,0 +1,8 @@
+ eggs
+milk
+bread
+peanut butter
+banana
+grapes
+chicken
+LIST
