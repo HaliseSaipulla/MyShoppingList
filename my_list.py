@@ -42,3 +42,6 @@ List: To Read and Delete
             else:
                 file.write(item + '\n')
 my_list()
+
+
+print('jgkjfkg')
